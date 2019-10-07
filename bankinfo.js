@@ -5921,6 +5921,4 @@ const bankInfo = [
       { bank: '382', code: '3820018', name: '大陸商中國建設銀行股份有限公司臺北分行' }
     ]
   }
-]
-
-export default bankInfo
+];
